@@ -1,0 +1,26 @@
+[
+  {
+    "p_id": "1",
+    "text": "one one coco full basket",    
+    "translation": "",
+    "meaning": "Success does not come oover night",
+    "created_at": "2017-03-15 10:52:21",
+    "updated_at": "0000-00-00 00:00:00"
+  },
+  {
+    "p_id": "2",
+    "text": "if yuh wah good yuh nose haffi run",    
+    "translation": "",
+    "meaning": "work hard for what you want",
+    "created_at": "2017-03-15 11:45:09",
+    "updated_at": "0000-00-00 00:00:00"
+  },
+  {
+    "p_id": "3",
+    "text": "pit inna di sky, it fall inna yuh yeye",    
+    "translation": "if you spit into the sky, it falls back into your eye",
+    "meaning": "What you do to or wish for others, could eventually be the cause of your own downfall. Be careful how you treat others",
+    "created_at": "2017-03-15 14:39:23",
+    "updated_at": "0000-00-00 00:00:00"
+  }
+]
